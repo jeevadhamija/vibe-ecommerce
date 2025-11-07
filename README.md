@@ -1,8 +1,8 @@
-# Mock E‑Com MERN (MongoDB + seeded products from code)
+# Vibe - ecommerce website
 
 This archive contains two folders:
 - server/ — Express + Mongoose backend. On start, seeds initial products into MongoDB if none exist.
-- client/ — React (Vite) frontend with a light minimal UI and animations.
+- client/ — React (Vite) frontend 
 
 ## Quick start
 
@@ -10,7 +10,6 @@ This archive contains two folders:
 2. Start server:
    cd server
    npm install
-   cp .env.example .env
    npm start
 
 3. Start client:
