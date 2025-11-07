@@ -18,3 +18,4 @@ This archive contains two folders:
    npm run dev
 
 Frontend expects the backend at http://localhost:5000 by default (client/.env).
+<img width="952" height="498" alt="1" src="https://github.com/user-attachments/assets/af1dd105-543a-4bd2-b9ba-d5667a4df914" />
