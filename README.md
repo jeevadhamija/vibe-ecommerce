@@ -1,7 +1,7 @@
 # Vibe - ecommerce website
 
 This archive contains two folders:
-- server/ — Express + Mongoose backend. On start, seeds initial products into MongoDB if none exist.
+- server/ — Express + Mongoose + Node backend. On start, seeds initial products into MongoDB if none exist.
 - client/ — React (Vite) frontend 
 
 ## Quick start
